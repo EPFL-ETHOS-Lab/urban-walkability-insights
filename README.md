@@ -9,6 +9,7 @@ Code for "Data-driven insights on urban walkability" paper
 | `isochrone_urban_form_multiyear.ipynb` | Extracting temporally variant urban features within 15/5-minute walk isochrones. |
 | `ERA5_data_extraction.ipynb` | Processing ERA5 weather data for integration. |
 | `data_processing.ipynb` | Processing urban form and pedestrian count data. |
+| `model_selection.ipynb` | Comparing the performance of multiple models for predicting pedestrian counts. |
 | `modeling.ipynb` | Modeling urban form features to analyze their relationship with pedestrian counts. |
 | `partial_dependence_plots.ipynb` | Plotting partial dependence of urban features on pedestrian counts. |
 
