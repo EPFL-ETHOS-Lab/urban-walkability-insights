@@ -16,3 +16,7 @@ Code for "Data-driven insights on urban walkability" paper
 **Usage**
 
 Run the Jupyter notebooks in the order listed above to reproduce the analysis.
+
+**Data Sources**
+
+Please refer to the [Data Sources](./DATA_SOURCES.md) document.
