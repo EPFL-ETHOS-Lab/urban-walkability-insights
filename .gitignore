@@ -4,8 +4,9 @@ Output_data_from_isochrone_scripts/
 Output_data_from_urban_form_scripts/
 Output_data_from_urban_form_multiyear_scripts/
 Output_data_from_processing_scripts/
+Output_data_from_model_selection_scripts/
 Output_data_from_modeling_scripts/
-Output_data_from_partial_dependence_plots_scritpts/
+Output_data_from_partial_dependence_plots_scripts/
 
 Open_datasets/tree-canopies-public-realm-2018-urban-forest.geojson
 Open_datasets/street-lights-with-emitted-lux-level-council-owned-lights-only.geojson
