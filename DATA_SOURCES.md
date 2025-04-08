@@ -65,4 +65,4 @@ from:
 era5_melbourne.csv & data_stream-oper_stepType_combined.csv\
 from:
 <https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download>\
-NOTE: The original files are large. The filenames shown here reflect reflect how we exported the original files (details in `ERA5_data_extraction.ipynb`).
+NOTE: The original files are large. The filenames shown here reflect how we exported the original files (details in `ERA5_data_extraction.ipynb`).
