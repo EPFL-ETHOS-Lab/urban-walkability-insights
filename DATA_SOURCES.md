@@ -59,11 +59,10 @@ from:
 <https://data.melbourne.vic.gov.au/explore/dataset/off-street-car-parks-with-capacity-and-type/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJwYXJraW5nX3NwYWNlcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJjZW5zdXNfeWVhciIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoicGFya2luZ190eXBlIiwic3RhY2tlZCI6Im5vcm1hbCIsImNvbmZpZyI6eyJkYXRhc2V0Ijoib2ZmLXN0cmVldC1jYXItcGFya3Mtd2l0aC1jYXBhY2l0eS1hbmQtdHlwZSIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&disjunctive.clue_small_area&disjunctive.parking_type&disjunctive.block_id&disjunctive.parking_spaces>\
 \
 Melbourne_nodes_100m.geojson\
-From:
+from:
 <https://figshare.com/articles/dataset/Global_Urban_Network_Dataset/22124219>\
 \
 era5_melbourne.csv & data_stream-oper_stepType_combined.csv\
-From:
+from:
 <https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download>\
-NOTE: The original files are large. Only the processed data is shared
-here.
+NOTE: The original files are large. The filenames shown here reflect reflect how we exported the original files (details in `ERA5_data_extraction.ipynb`).
