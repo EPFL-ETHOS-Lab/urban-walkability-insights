@@ -32,8 +32,10 @@ Open_datasets/employment-by-block-by-space-use.csv
 Open_datasets/buildings-with-name-age-size-accessibility-and-bicycle-facilities.geojson
 Open_datasets/blocks-for-census-of-land-use-and-employment-clue.geojson
 Open_datasets/2010.csv
-*.Rhistory
 
+Output_data_from_QGIS/sensor_locations_urbanity_attribute_join_by_nearest_inQGIS.qmd
+
+*.Rhistory
 
 cache/
 catboost_info/
