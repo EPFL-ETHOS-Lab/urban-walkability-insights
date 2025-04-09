@@ -32,7 +32,8 @@ Open_datasets/employment-by-block-by-space-use.csv
 Open_datasets/buildings-with-name-age-size-accessibility-and-bicycle-facilities.geojson
 Open_datasets/blocks-for-census-of-land-use-and-employment-clue.geojson
 Open_datasets/2010.csv
-Open_datasets/.Rhistory
+*.Rhistory
+
 
 cache/
 catboost_info/
