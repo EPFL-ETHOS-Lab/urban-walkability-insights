@@ -12,6 +12,7 @@ Code for "Data-driven insights on urban walkability" paper
 | `model_selection.ipynb` | Comparing the performance of multiple models for predicting pedestrian counts. |
 | `modeling.ipynb` | Modeling urban form features to analyze their relationship with pedestrian counts. |
 | `partial_dependence_plots.ipynb` | Plotting partial dependence of urban features on pedestrian counts. |
+| `residual_spatial_autocorrelation_check.ipynb` | Checking residual spatial autocorrelation. |
 
 **Usage**
 

@@ -7,6 +7,7 @@ Output_data_from_processing_scripts/
 Output_data_from_model_selection_scripts/
 Output_data_from_modeling_scripts/
 Output_data_from_partial_dependence_plots_scripts/
+Output_data_from_spatial_autocorr_check_scripts/
 
 Open_datasets/tree-canopies-public-realm-2018-urban-forest.geojson
 Open_datasets/street-lights-with-emitted-lux-level-council-owned-lights-only.geojson
@@ -35,6 +36,8 @@ Open_datasets/2010.csv
 Open_datasets/data_stream-oper_stepType_combined.csv
 
 Output_data_from_QGIS/sensor_locations_urbanity_attribute_join_by_nearest_inQGIS.qmd
+
+Archive/
 
 *.Rhistory
 
