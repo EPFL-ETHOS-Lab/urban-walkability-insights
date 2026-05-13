@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/942143689.svg)](https://doi.org/10.5281/zenodo.20153518)
+
 # urban-walkability-insights
 Code for "Data-driven insights on urban walkability" paper
 
